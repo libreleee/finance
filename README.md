@@ -20,6 +20,8 @@ $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
 
 | 화면      | 설명      |
 |------------|-------------|
+|  ![cross-list](https://user-images.githubusercontent.com/117779419/206105246-da46be4b-0a69-4638-abf7-5a662769dbd7.PNG)
+  |    |
 |  ![position-all](https://user-images.githubusercontent.com/117779419/206104483-db3427e8-5680-4386-ac48-c049a700fe39.PNG)
   |    |
 | ![price-table](https://user-images.githubusercontent.com/117779419/201475209-02817703-974d-4efe-b6b8-a8dd66af07c8.PNG) |   |
