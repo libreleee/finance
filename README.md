@@ -6,9 +6,9 @@ Finance-금융
 $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
 
 
-|             | 1.요구분석      | 2.설계      | 3.개발       | 4.테스트    | 5.운영      | 6. 업그레이드|
+|             | 1.요구분석      | 2.설계      | 3.개발       | 4.테스트    | 5.운영      | 6.업그레이드|
 |------------|------------|-------------|-------------|-------------|-------------|-------------|
-|     진행       |    ![100%](https://progress-bar.dev/100/?title=done)         |      ![100%](https://progress-bar.dev/100/?title=done)       |    ![100%](https://progress-bar.dev/100/?title=done)         |      ![100%](https://progress-bar.dev/100/?title=done)       |     ![100%](https://progress-bar.dev/100/?title=done)       |        |
+|     진행       |    ![100%](https://progress-bar.dev/100/?title=done)         |      ![100%](https://progress-bar.dev/100/?title=done)       |    ![100%](https://progress-bar.dev/100/?title=done)         |      ![100%](https://progress-bar.dev/100/?title=done)       |     ![100%](https://progress-bar.dev/100/?title=done)       |     ![70%](https://progress-bar.dev/70/?title=progress)   |
 |    산출물       | 1-1.요구사항기능요구서       |2-1.시스템구성도           |             |             |            |           |
 
 
