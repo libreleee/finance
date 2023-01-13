@@ -23,7 +23,7 @@ Finance-금융
 
 - **view description**
 
-| view      | description     |
+| screen      | info     |
 |------------|-------------|
 |  ![cross-list](https://user-images.githubusercontent.com/117779419/206105246-da46be4b-0a69-4638-abf7-5a662769dbd7.PNG)
   |    |
