@@ -16,9 +16,9 @@ Finance-금융
 
 <img width="4160" alt="system-diagram (1)" src="https://user-images.githubusercontent.com/117779419/205656248-5c968ed2-ce7c-48f8-ad9a-74bfe3f434b0.png">
 
+
 DB Scheme
 ![db0-scheme-fotrade](https://user-images.githubusercontent.com/117779419/212232505-1b4f8216-16d6-4c65-9220-953eca8e463c.png)
-
 
 
 | 화면      | 설명      |
