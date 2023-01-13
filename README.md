@@ -21,6 +21,7 @@ Finance-금융
 ![db0-scheme-fotrade](https://user-images.githubusercontent.com/117779419/212232505-1b4f8216-16d6-4c65-9220-953eca8e463c.png)
 
 
+- **view description**
 | 화면      | 설명      |
 |------------|-------------|
 |  ![cross-list](https://user-images.githubusercontent.com/117779419/206105246-da46be4b-0a69-4638-abf7-5a662769dbd7.PNG)
