@@ -3,7 +3,6 @@ Finance-금융
 
 
 
-$\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
 
 
 |             | 1.요구분석      | 2.설계      | 3.개발       | 4.테스트    | 5.운영      | 6.업그레이드|
@@ -16,6 +15,10 @@ $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
 <img width="2128" alt="system-diagram" src="https://user-images.githubusercontent.com/117779419/205655906-18730e10-d3a0-4f62-858f-707fa0936c38.png">
 
 <img width="4160" alt="system-diagram (1)" src="https://user-images.githubusercontent.com/117779419/205656248-5c968ed2-ce7c-48f8-ad9a-74bfe3f434b0.png">
+
+DB Scheme
+![db0-scheme-fotrade](https://user-images.githubusercontent.com/117779419/212232505-1b4f8216-16d6-4c65-9220-953eca8e463c.png)
+
 
 
 | 화면      | 설명      |
