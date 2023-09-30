@@ -8,6 +8,7 @@ namespace csDaishinStock.Common
 {
     class ClassUtil
     {
-	}
+	
+    }
 	
 }
