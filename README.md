@@ -12,8 +12,11 @@ Finance-금융
 
 
 - **시스템 구성도**
+
 | screen      |
 |------------|
+|![flutter-sys](https://github.com/libreleee/finance/assets/117779419/092a00d1-f2ad-43fc-80fd-548454dcc09f)|
+
 
 - **소프트웨어 구성도**
 <img width="2128" alt="system-diagram" src="https://user-images.githubusercontent.com/117779419/205655906-18730e10-d3a0-4f62-858f-707fa0936c38.png">
