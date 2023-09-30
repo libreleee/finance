@@ -15,7 +15,7 @@ Finance-금융
 
 | 구성도      |
 |------------|
-|![flutter-sys](https://github.com/libreleee/finance/assets/117779419/092a00d1-f2ad-43fc-80fd-548454dcc09f)|
+|![flutter-sys](https://github.com/libreleee/finance/assets/117779419/534d81ac-ba19-431d-8339-763f02ce43d6)|
 
 
 - **소프트웨어 구성도**
