@@ -13,7 +13,7 @@ Finance-금융
 
 - **시스템 구성도**
 
-| screen      |
+| 구성도      |
 |------------|
 |![flutter-sys](https://github.com/libreleee/finance/assets/117779419/092a00d1-f2ad-43fc-80fd-548454dcc09f)|
 
