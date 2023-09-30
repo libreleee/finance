@@ -11,6 +11,10 @@ Finance-금융
 |    산출물       | 1-1.요구사항기능요구서       |2-1.시스템구성도           |             |             |            |           |
 
 
+- **시스템 구성도**
+| screen      |
+|------------|
+
 - **소프트웨어 구성도**
 <img width="2128" alt="system-diagram" src="https://user-images.githubusercontent.com/117779419/205655906-18730e10-d3a0-4f62-858f-707fa0936c38.png">
 
@@ -32,3 +36,4 @@ Finance-금융
 | ![price-table](https://user-images.githubusercontent.com/117779419/201475209-02817703-974d-4efe-b6b8-a8dd66af07c8.PNG) |   |
 |  ![daily-report](https://user-images.githubusercontent.com/117779419/206104523-23153a09-0981-4990-a3e1-1f7fe13e51dd.PNG)
  |    |   
+
